@@ -12,8 +12,8 @@ Swagger
 
 # How to run
 
-install RabitMQ or use docker and change hostname appsettings.json;
+Install RabitMQ or use docker and change hostname in appsettings.json.
 
-call "dotnet run APIQueueMiddleware.cs" in project root folder
+Call "dotnet run APIQueueMiddleware.cs" in project root folder.
 
-you can also use swagger UI runnig on https://localhost:44329/swagger 
+You can also use swagger UI runnig on https://localhost:44329/swagger 
