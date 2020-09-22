@@ -1,8 +1,13 @@
 # API resender with request queue using RabbitMQ
-.NET CORE 2.2
+
+.NET CORE
+
 RabbitMQ
+
 Quartz.NET
+
 Newtonsoft.JSON
+
 Swagger
 
 # How to run
